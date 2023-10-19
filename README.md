@@ -32,4 +32,23 @@ Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundament
   </ul>
 </ol>
 
+## Submission Akhir Checklist
+
+<ol>
+	<li>Favorite User dengan Database</li>
+	<p>Syarat : </p>
+		<ul>
+			<li>Aplikasi harus bisa menambah dan menghapus user dari daftar favorite.</li>	
+			<li>Aplikasi harus mempunyai halaman yang menampilkan daftar favorite.</li>	
+			<li>Menampilkan halaman detail dari daftar favorite</li>	
+		</ul>
+	<li>Pengaturan Tema</li>
+	<p>Syarat : </p>
+		<ul>
+			<li>Membuat menu untuk mengganti tema</li>
+			<li>Pastikan tema tetap terimplementasi walaupun aplikasi ditutup dan dibuka kembali</li>
+			<li>Pastikan setiap komponen dan indikator tetap terlihat jelas ketika berubah tema</li>
+		</ul>
+</ol>
+
 
