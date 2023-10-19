@@ -1,8 +1,8 @@
-# Submission Dicoding Belajar Fundamental Aplikasi Android
+## Submission Dicoding Belajar Fundamental Aplikasi Android
 Submission Untuk Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA) menggunakan Kotlin.
 Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA) agar dapat membantu teman - teman dalam menyelesaikan submission yang sedang dikerjakan. Semoga Bermanfaat.
 
-## Submision Awal Checklist
+### Submision Awal Checklist
 
 - [x] Menampilkan list data user dari API menggunakan RecyclerView
 - [x] Pencarian user menggunakan data dari API
@@ -10,7 +10,7 @@ Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundament
 - [x] Terdapat informasi detail dari seorang user
 - [x] Terdapat indikator loading saat aplikasi memuat data di semua bagian yang mengambil data dari API
 
-## Submission Akhir Checklist
+### Submission Akhir Checklist
 
 - [x] Menambah dan menghapus user dari daftar favorite
 - [x] Menampilkan halaman daftar favorite
@@ -19,7 +19,7 @@ Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundament
 - [x] Tema tetap terimplementasi walaupun aplikasi ditutup dan dibuka kembali
 - [x] Indikator tetap terlihat jelas ketika berubah tema
 
-## LICENSE
+### LICENSE
 ```plaintext
 MIT License
 
