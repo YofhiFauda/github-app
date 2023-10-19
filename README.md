@@ -52,6 +52,7 @@ Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundament
 </ol>
 
 ##LICENSE
+```plaintext
 MIT License
 
 Copyright (c) 2023 Yofhi Fauda Pradana
@@ -73,4 +74,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+...
+```
 
