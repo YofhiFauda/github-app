@@ -51,7 +51,7 @@ Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundament
 		</ul>
 </ol>
 
-##LICENSE
+## LICENSE
 ```plaintext
 MIT License
 
